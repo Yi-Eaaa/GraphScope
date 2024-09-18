@@ -1,10 +1,25 @@
 var searchData=
 [
-  ['readappbase_1639',['ReadAppBase',['../classgs_1_1ReadAppBase.html',1,'gs']]],
-  ['readtransaction_1640',['ReadTransaction',['../classgs_1_1ReadTransaction.html',1,'gs']]],
-  ['record_1641',['Record',['../structgs_1_1Record.html',1,'gs']]],
-  ['recordnbr_1642',['RecordNbr',['../structgs_1_1SingleMutableCsr_3_01RecordView_01_4_1_1RecordNbr.html',1,'gs::SingleMutableCsr&lt; RecordView &gt;']]],
-  ['recordview_1643',['RecordView',['../structgs_1_1RecordView.html',1,'gs']]],
-  ['refcolumnbase_1644',['RefColumnBase',['../classgs_1_1RefColumnBase.html',1,'gs']]],
-  ['result_1645',['Result',['../classgs_1_1Result.html',1,'gs']]]
+  ['schema_1650',['Schema',['../classgs_1_1Schema.html',1,'gs']]],
+  ['serverapp_1651',['ServerApp',['../classgs_1_1ServerApp.html',1,'gs']]],
+  ['serverappfactory_1652',['ServerAppFactory',['../classgs_1_1ServerAppFactory.html',1,'gs']]],
+  ['sessionlocalcontext_1653',['SessionLocalContext',['../structgs_1_1SessionLocalContext.html',1,'gs']]],
+  ['sharedlibraryappfactory_1654',['SharedLibraryAppFactory',['../classgs_1_1SharedLibraryAppFactory.html',1,'gs']]],
+  ['singleedgeinserttransaction_1655',['SingleEdgeInsertTransaction',['../classgs_1_1SingleEdgeInsertTransaction.html',1,'gs']]],
+  ['singlegraphview_1656',['SingleGraphView',['../classgs_1_1SingleGraphView.html',1,'gs']]],
+  ['singlegraphview_3c_20std_3a_3astring_5fview_20_3e_1657',['SingleGraphView&lt; std::string_view &gt;',['../classgs_1_1SingleGraphView_3_01std_1_1string__view_01_4.html',1,'gs']]],
+  ['singleimmutablecsr_1658',['SingleImmutableCsr',['../classgs_1_1SingleImmutableCsr.html',1,'gs']]],
+  ['singleimmutablecsr_3c_20std_3a_3astring_5fview_20_3e_1659',['SingleImmutableCsr&lt; std::string_view &gt;',['../classgs_1_1SingleImmutableCsr_3_01std_1_1string__view_01_4.html',1,'gs']]],
+  ['singleimmutablegraphview_1660',['SingleImmutableGraphView',['../classgs_1_1SingleImmutableGraphView.html',1,'gs']]],
+  ['singleimmutablegraphview_3c_20std_3a_3astring_5fview_20_3e_1661',['SingleImmutableGraphView&lt; std::string_view &gt;',['../classgs_1_1SingleImmutableGraphView_3_01std_1_1string__view_01_4.html',1,'gs']]],
+  ['singlemutablecsr_1662',['SingleMutableCsr',['../classgs_1_1SingleMutableCsr.html',1,'gs']]],
+  ['singlemutablecsr_3c_20recordview_20_3e_1663',['SingleMutableCsr&lt; RecordView &gt;',['../classgs_1_1SingleMutableCsr_3_01RecordView_01_4.html',1,'gs']]],
+  ['singlemutablecsr_3c_20size_5ft_20_3e_1664',['SingleMutableCsr&lt; size_t &gt;',['../classgs_1_1SingleMutableCsr.html',1,'gs']]],
+  ['singlemutablecsr_3c_20std_3a_3astring_5fview_20_3e_1665',['SingleMutableCsr&lt; std::string_view &gt;',['../classgs_1_1SingleMutableCsr_3_01std_1_1string__view_01_4.html',1,'gs']]],
+  ['singlevertexinserttransaction_1666',['SingleVertexInsertTransaction',['../classgs_1_1SingleVertexInsertTransaction.html',1,'gs']]],
+  ['status_1667',['Status',['../classgs_1_1Status.html',1,'gs']]],
+  ['string_5fitem_1668',['string_item',['../structgs_1_1string__item.html',1,'gs']]],
+  ['stringmapcolumn_1669',['StringMapColumn',['../classgs_1_1StringMapColumn.html',1,'gs']]],
+  ['stringptr_1670',['StringPtr',['../structgs_1_1StringPtr.html',1,'gs']]],
+  ['stringviewvector_1671',['StringViewVector',['../classgs_1_1StringViewVector.html',1,'gs']]]
 ];
