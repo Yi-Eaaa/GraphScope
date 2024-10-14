@@ -149,8 +149,8 @@ def test(model, shuffle_node_id):
     xs = []
     y_true = []
     test_data_length = TRAIN_DATA_LENGTH // 2
-    l = DATA_LENGTH - test_data_length - 1
-    for i in range(DATA_LENGTH - 1, l, -BATCH_SIZE):
+    begin = DATA_LENGTH - test_data_length - 1
+    for i in range(DATA_LENGTH - 1, begin, -BATCH_SIZE):
         end = i
         start = max(i - BATCH_SIZE, 0)
         batch = shuffle_node_id[start:end]
